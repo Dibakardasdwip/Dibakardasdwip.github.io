@@ -1,7 +1,15 @@
-body {
-    font-family: 'Open Sans', sans-serif;
+.banner-container {
+    background-color: rgb(171, 166, 166);
 }
 
-p {
-    border: 1px solid red;
+.banner-column {
+    background-color: rgb(86, 86, 86);
+}
+
+.navbar-bg {
+    background-color: #262B38;
+}
+
+.about-container {
+    background-color: #00BDBD;
 }
