@@ -13,3 +13,26 @@
 .about-container {
     background-color: #00BDBD;
 }
+
+.Education-container {
+    background-color: rgb(234, 231, 231);
+}
+
+.orange-color {
+    color: #e46d0c;
+}
+
+.orange-background {
+    background-color: #e46d0c;
+}
+
+.circle {
+    background-color: #e46d0c;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.Project-container {
+    background-color: #12d5e7;
+}
