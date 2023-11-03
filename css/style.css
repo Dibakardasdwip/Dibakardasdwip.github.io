@@ -7,8 +7,15 @@
 }
 
 .navbar-bg {
+    top: 0;
     background-color: #262B38;
+    position: sticky;
+    z-index: 2;
 }
+
+/* .navbr-container{
+
+} */
 
 .about-container {
     background-color: #00BDBD;
@@ -26,6 +33,10 @@
     background-color: #e46d0c;
 }
 
+.orange-background:hover {
+    color: black !important;
+}
+
 .circle {
     background-color: #e46d0c;
     width: 150px;
@@ -35,4 +46,12 @@
 
 .Project-container {
     background-color: #12d5e7;
+}
+
+.form-container {
+    background-color: #474D5D;
+}
+
+.inner-form {
+    background-color: #585F73;
 }
