@@ -37,7 +37,7 @@
     color: black !important;
 }
 
-.circle {
+.circle-edu {
     background-color: #e46d0c;
     width: 150px;
     height: 150px;
@@ -54,4 +54,26 @@
 
 .inner-form {
     background-color: #585F73;
+}
+
+.footer {
+    background-color: #2bb5dd;
+}
+
+
+.circle {
+
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: center;
+    color: #12d5e7;
+}
+
+.circle:hover {
+
+    background-color: #474D5D;
 }
